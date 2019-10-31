@@ -11,7 +11,8 @@ if (Number.isNaN(amount)) {
     console.log("\nInvalid")
 } else {
     const quarter = 0.25;
-    const dime = 0.10;
+    const d
+    ime = 0.10;
     const nickle = 0.05;
     const penny = 0.01
 
