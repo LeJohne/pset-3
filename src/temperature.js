@@ -31,4 +31,3 @@ if (temp < (Number.MIN_SAFE_INTEGER) || temp > Number.MAX_SAFE_INTEGER) {
       console.log("\nGas.")
 } else {
       console.log("\nInvalid.")
-}
